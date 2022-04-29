@@ -1,0 +1,5 @@
+GET https://app.slack.com/client/T036UQB98DC/C037R6XQDLGtes
+
+###
+
+GET https://api.wordnik.com/v4/word.json/test/pronunciations?useCanonical=false&limit=50&api_key=
