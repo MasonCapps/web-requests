@@ -1,1 +1,5 @@
 GET https://api.wordnik.com/v4/word.json/test/pronunciations?useCanonical=false&limit=50&api_key=
+
+###
+
+GET https://datausa.io/api/data?drilldowns=Nation&measures=Population
